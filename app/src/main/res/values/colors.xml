@@ -8,4 +8,16 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="weezer_blue">#0091c4</color>
+
+    <color name="weather_background">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="error_text">#D32F2F</color>
+
+    <!-- Dark theme -->
+    <color name="weather_background_dark">#121212</color>
+    <color name="card_background_dark">#1E1E1E</color>
+    <color name="primary_text_dark">#FFFFFF</color>
+    <color name="secondary_text_dark">#B0B0B0</color>
 </resources>
